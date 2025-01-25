@@ -1,7 +1,4 @@
 ## Add signature to list
-
-Signatures are recorded in the [signatures.list](./signatures.list) and [signatures64.list](./signatures64.list) files. One line corresponds to one record. Lines are written in the order of increasing the version number of the game client and the **exe**-file version number of the game. The following is the decryption of the fields:
-
 Field         | Format   | Description
 --------------|----------|-----------------------------------------------------------
 ClientVersion | N.N.N... | Game client version number from the **"version.xml"** file
