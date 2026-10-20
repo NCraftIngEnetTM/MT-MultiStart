@@ -19,21 +19,9 @@
 		{"clientVersion": "1.21.0.0", "FileVersion": "1.21.0.4", "FileID": 1935700, "OldSign": [15, 132, 138, 0, 0, 0, 232], "NewSign": [233, 139, 0, 0, 0, 0, 232], "ReplaceAll": false, "EntryNumber": 1}
 	],
 	"lesta:": [
-	    {
-	        "offset": 756876,
-	        "old": "FF15267B0800",
-	        "new": "31C090909090"
-	    },
-	    {
-	        "offset": 1408110,
-	        "old": "5F",
-	        "new": "30"
-	    },
-	    {
-	        "offset": 1408142,
-	        "old": "5F",
-	        "new": "30"
-	    }
+	    {"offset": 756876, "old": "FF15267B0800", "new": "31C090909090"},
+	    {"offset": 1408110, "old": "5F", "new": "30"},
+	    {"offset": 1408142, "old": "5F", "new": "30"}
 	],
 	"wg" [
 		
